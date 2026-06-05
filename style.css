@@ -40,8 +40,11 @@ header {
 }
 
 .home-container{
+    height: cover;
     background-color: #070736;
-    padding: 30px;
+    margin-top: 30px;
+    margin: 5%;
+    padding:80px;
     border-radius: 10px;
 }
 .home-para{
@@ -59,7 +62,7 @@ header {
 }
 
 .home-hi{
-    padding-top: 120px;
+    padding-top: 10px;
     padding-left: 15px;
 }
 .home-name{
